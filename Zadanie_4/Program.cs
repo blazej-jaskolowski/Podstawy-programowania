@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Program wczytujący boki prostokąta i wypisujący na ekranie jego pole i obwód.
+
 namespace Zadanie_4
 {
     internal class Program

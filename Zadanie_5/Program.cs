@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Program wczytujący promień podstawy (r) i wysokość (h) stożka i wypisujący na ekranie objętość i
+   pole całkowite tego stożka. */
+
 namespace Zadanie_5
 {
     internal class Program

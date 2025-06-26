@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// Program wczytujący imię użytkownika i wypisujący na ekranie tekst "Witaj imię!".
+
 namespace Zadanie_2
 {
     internal class Program

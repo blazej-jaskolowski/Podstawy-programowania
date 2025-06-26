@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Program wczytujący z klawiatury liczbę całkowitą i wypisujący na ekranie sześcian wczytanej liczby. 
+
 namespace Zadanie_3
 {
     internal class Program
